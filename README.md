@@ -22,11 +22,19 @@ python
 from data_structures import LinkedList
 
 # Create a linked list
+
+
 linked_list = LinkedList()
+
+
 linked_list.insert(5)
+
+
 linked_list.insert(10)
+
+
 linked_list.display()
-```
+
 
 ## PDF
 
